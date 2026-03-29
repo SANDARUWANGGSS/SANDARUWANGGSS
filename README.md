@@ -19,19 +19,50 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Sandaruwan Gamage
-role: Full Stack Developer
-location: Sri Lanka 🇱🇰
-passion: Building scalable apps & beautiful UIs
+<table>
+<tr>
+<td width="55%" valign="top">
 
-currently_learning:
-  - Next.js 14 & Server Components
-  - Kubernetes & Cloud-Native Architecture
-  - AI/ML Integration with LLMs
+### 🚀 Who Am I?
 
-fun_fact: I turn coffee ☕ into code and bugs into features
-```
+> *"Code is poetry — I write verses that solve real problems."*
+
+I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from the beautiful island of Sri Lanka 🇱🇰. I craft seamless digital experiences from frontend pixels to backend logic, and love turning complex problems into elegant solutions.
+
+<br/>
+
+**🔥 What drives me:**
+- 💡 Building products people actually *love* using
+- 🌍 Open source contributions & community learning
+- 🤖 Exploring AI/LLM-powered applications
+- 📱 Crafting pixel-perfect mobile experiences
+
+<br/>
+
+**📌 Right now I'm:**
+
+| Status | Details |
+|--------|---------|
+| 🛠️ Building | Full Stack SaaS project |
+| 📖 Learning | Next.js 14 · Kubernetes · LangChain |
+| 🤝 Open to | Freelance & Collaboration |
+| ⚡ Fun fact | I debug with `console.log` and I'm proud of it |
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blue?style=flat-square)
+![](https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-green?style=flat-square)
+![](https://img.shields.io/badge/Languages-5%2B-orange?style=flat-square)
+![](https://img.shields.io/badge/Coffee-Powered%20☕-brown?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
