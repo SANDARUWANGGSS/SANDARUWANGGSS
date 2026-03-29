@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sandaruwan+%F0%9F%91%8B;Passionate+Full+Stack+Developer;Mobile+App+Engineer+%7C+Flutter+%26+Kotlin;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sandaruwan+%F0%9F%91%8B;Passionate+Full+Stack+Developer;Mobile+App+Engineer+%7C+Flutter+%26+Kotlin;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;AI+%26+Claude+API+Integrator+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,7 +44,8 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
 | Status | Details |
 |--------|---------|
 | 🛠️ Building | Full Stack SaaS project |
-| 📖 Learning | Next.js 14 · Kubernetes · LangChain |
+| 📖 Learning | Next.js 14 · Kubernetes · Claude API |
+| 🤖 Exploring | AI agents with Claude & LangChain |
 | 🤝 Open to | Freelance & Collaboration |
 | ⚡ Fun fact | I debug with `console.log` and I'm proud of it |
 
@@ -112,12 +113,20 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,figma,vscode,github&theme=dark" />
 </div>
 
-### 🤖 Latest / Emerging
+### 🤖 AI & LLM
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
+### ⚡ Latest / Emerging
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql,prisma,bun,vercel,aws&theme=dark" />
   <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/TurboRepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
