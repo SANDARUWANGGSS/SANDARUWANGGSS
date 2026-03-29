@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandaruwanggss&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sandaruwanggss?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SANDARUWANGGSS&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SANDARUWANGGSS?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 </div>
 
 <br/>
@@ -128,12 +128,12 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandaruwanggss&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sandaruwanggss&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANDARUWANGGSS&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=SANDARUWANGGSS&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaruwanggss&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDARUWANGGSS&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 ---
@@ -141,7 +141,7 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandaruwanggss&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SANDARUWANGGSS&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -149,7 +149,7 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaruwanggss&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANDARUWANGGSS&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
