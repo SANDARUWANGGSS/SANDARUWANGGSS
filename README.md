@@ -128,12 +128,12 @@ I'm **Sandaruwan Gamage**, a passionate **Full Stack & Mobile Developer** from t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandaruwanggss&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruwanggss&theme=tokyonight&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandaruwanggss&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sandaruwanggss&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaruwanggss&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaruwanggss&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 ---
